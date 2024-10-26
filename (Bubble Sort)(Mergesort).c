@@ -9,7 +9,7 @@ typedef struct {
 } Contato;
 
 int comparacoes_bubble = 0;
-int movimentacoes_bubble = 0;
+int movimentacoes_bubble = 0:
 
 void bubbleSort(Contato arr[], int n) {
     for (int i = 0; i < n - 1; i++) {
@@ -104,3 +104,4 @@ int main() {
 
     return 0;
 }
+By Caio Eduardo de Souza
